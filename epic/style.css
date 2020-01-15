@@ -1,0 +1,28 @@
+.terrence-image {
+	width: 500px;
+	height: 400px;
+	border-radius: 10px;
+	border: darkgray;
+}
+
+.inlineText h3, .inlineText p{
+	display: inline;
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+	color: coral;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+p {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h5 {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+
