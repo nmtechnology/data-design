@@ -5,8 +5,8 @@
 	<meta charset="utf-8">
 	<title>User Story</title>
 	<link rel="stylesheet" href="style.css"/>
-	<a href="persona.php" style="color: black;">Persona</a>
-	<a href="user-story.php" style="color: green;">User Story</a>
+	<a href="index.php" style="color: cornflowerblue;">Home</a>
+	<a href="persona.php" style="color: black; font-family: 'Titillium Web', sans-serif">Persona</a>
 	<a href="use-case-interaction.php"style="color: cornflowerblue;">User Case Interaction</a>
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap" rel="stylesheet">
 </head>

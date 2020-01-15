@@ -15,7 +15,7 @@
 	</div>
 
 	<div>
-		<img src="soundcloud.png" class="soundcloud-image" alt="soundcloud-logo" height="500" width="1000"></body>
+		<img src="soundcloud.png" class="soundcloud-image" alt="soundcloud-logo"></body>
 	</div>
 
 	<br>
@@ -30,9 +30,9 @@
 </body>
 
 <footer>
-	<a href="persona.php" style="color: black;">Persona</a>
-	<a href="user-story.php" style="color: green;">User Story</a>
-	<a href="use-case-interaction.php"style="color: cornflowerblue;">User Case Interaction</a>
+	<a href="persona.php" style="color: black; font-family: 'Titillium Web', sans-serif">Persona</a>
+	<a href="user-story.php" style="color: green; font-family: 'Titillium Web',>User Story</a>
+	<a href="use-case-interaction.php"style="color: cornflowerblue; font-family: 'Titillium Web',>User Case Interaction</a>
 </footer>
 
 </html>
