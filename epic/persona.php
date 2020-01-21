@@ -10,9 +10,9 @@
 
 <ul>
 	<div>
-		<a href="index.php" style="color: cornflowerblue;">Home</a>
-		<a href="user-story.php" style="color: green;">User Story</a>
-		<a href="use-case-interaction.php" style="color: cornflowerblue;">User Case Interaction</a>
+		<a href="index.php" style="color: cornflowerblue;font-family: 'Titillium Web', sans-serif"">Home</a>
+		<a href="user-story.php" style="color: green;font-family: 'Titillium Web', sans-serif"">User Story</a>
+		<a href="use-case-interaction.php" style="color: cornflowerblue;font-family: 'Titillium Web', sans-serif">User Case Interaction</a>
 	</div>
 </ul>
 
@@ -57,12 +57,12 @@
 	</div>
 		<br>
 	<div>
-		<br>
 		<h3>Fustrations:</h3>
 		<ul>
 			<li>Terrence does not like that he cannot see his play data.</li>
 			<li>He does not like browsing music on unreliable sites.</li>
 			<li>Other sites have taken his own works of production down due to strict copyright restrictions.</li>
-		</ul></div>
+		</ul>
+	</div>
 
 </html>

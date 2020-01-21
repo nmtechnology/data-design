@@ -14,11 +14,9 @@
 
 	<h1>User Story</h1>
 
-	<br>
-
-	<h5>As a DJ Terrence performs at music venues on a regular basis. He is a regular visitor user on Soundcloud, I want to be able to search specifically by music genre or tempo.
-		As a DJ on Soundcloud I want to be able to build a following of fans under my profile so I want to pay for the Pro account to help me do that. I currently have a free account
-		and I am not able to see play stats on my music I post on my feed.</h5>
+	<div>
+		<h6>As a regular user of Soundcloud Terrence wants be able to have full access to the features on Soundcloud website</h6>
+	</div>
 
 </body>
 
